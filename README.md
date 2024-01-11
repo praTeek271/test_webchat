@@ -18,3 +18,5 @@
 - this is a test repotest_changes
 
 - automated committest_changes
+
+- supports windowstest_changes
