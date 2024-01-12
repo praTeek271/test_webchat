@@ -32,3 +32,5 @@
 - uses pythontest_changes
 
 - uses seleniumtest_changes
+
+- uses random moduletest_changes
