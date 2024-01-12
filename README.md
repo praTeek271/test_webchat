@@ -36,3 +36,5 @@
 - uses random moduletest_changes
 
 - uses time moduletest_changes
+
+- can be used for any repotest_changes
