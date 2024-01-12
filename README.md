@@ -38,3 +38,5 @@
 - uses time moduletest_changes
 
 - can be used for any repotest_changes
+
+- uses githubtest_changes
