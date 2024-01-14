@@ -54,3 +54,5 @@
 - hello world
 
 - automated commit
+
+- uses git
