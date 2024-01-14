@@ -46,3 +46,5 @@
 - hello world
 
 - automated commit
+
+- supports linux
