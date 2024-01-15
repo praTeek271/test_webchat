@@ -66,3 +66,5 @@
 - automated commit
 
 - uses threading module
+
+- uses selenium
