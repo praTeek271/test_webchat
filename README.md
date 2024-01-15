@@ -62,3 +62,5 @@
 - can be used for any file
 
 - can be used for any repository
+
+- automated commit
