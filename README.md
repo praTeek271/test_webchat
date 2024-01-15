@@ -64,3 +64,5 @@
 - can be used for any repository
 
 - automated commit
+
+- uses threading module
