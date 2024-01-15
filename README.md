@@ -58,3 +58,5 @@
 - uses git
 
 - uses time module
+
+- can be used for any file
