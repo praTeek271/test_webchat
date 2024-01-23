@@ -78,3 +78,5 @@
 - uses selenium
 
 - supports mac
+
+- uses random module
