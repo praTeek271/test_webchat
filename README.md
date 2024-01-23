@@ -76,3 +76,5 @@
 -  created by prateek
 
 - uses selenium
+
+- supports mac
