@@ -84,3 +84,5 @@
 - uses random module
 
 - uses threading module
+
+- can be used for any file
