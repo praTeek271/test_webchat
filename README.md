@@ -100,3 +100,5 @@
 - uses python
 
 - can be used for any file
+
+- supports windows
