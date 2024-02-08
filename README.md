@@ -102,3 +102,5 @@
 - can be used for any file
 
 - supports windows
+
+- it works like a charm
