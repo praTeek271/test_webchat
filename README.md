@@ -98,3 +98,5 @@
 - uses threading module
 
 - uses python
+
+- can be used for any file
