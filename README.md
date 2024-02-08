@@ -96,3 +96,5 @@
 -  created by prateek
 
 - uses threading module
+
+- uses python
