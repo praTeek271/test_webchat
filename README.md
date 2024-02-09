@@ -104,3 +104,5 @@
 - supports windows
 
 - it works like a charm
+
+- can be used for any branch
