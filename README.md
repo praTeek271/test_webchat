@@ -178,3 +178,5 @@
 - uses time module
 
 - it works like a charm
+
+- can be used for any repository
