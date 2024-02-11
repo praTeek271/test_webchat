@@ -160,3 +160,5 @@
 - uses chrome
 
 - supports windows
+
+- uses threading module
