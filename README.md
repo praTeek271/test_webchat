@@ -162,3 +162,5 @@
 - supports windows
 
 - uses threading module
+
+- supports mac
