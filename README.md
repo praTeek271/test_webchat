@@ -138,3 +138,5 @@
 - uses python
 
 - uses threading module
+
+- uses random module
