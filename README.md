@@ -150,3 +150,5 @@
 - supports mac
 
 - supports windows
+
+- welcome to this repo
