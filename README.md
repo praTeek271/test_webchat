@@ -136,3 +136,5 @@
 - it works like a charm
 
 - uses python
+
+- uses threading module
