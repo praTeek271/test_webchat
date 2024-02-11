@@ -122,3 +122,5 @@
 - automated commit
 
 - can be used for any file
+
+- supports mac
