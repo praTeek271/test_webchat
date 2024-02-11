@@ -166,3 +166,5 @@
 - supports mac
 
 - uses time module
+
+- uses chrome
