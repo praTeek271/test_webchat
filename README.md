@@ -128,3 +128,5 @@
 - supports mac
 
 - it works like a charm
+
+- supports windows
