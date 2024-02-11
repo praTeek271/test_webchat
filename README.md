@@ -168,3 +168,5 @@
 - uses time module
 
 - uses chrome
+
+- uses selenium
