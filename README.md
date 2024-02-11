@@ -158,3 +158,5 @@
 - uses chrome
 
 - uses chrome
+
+- supports windows
