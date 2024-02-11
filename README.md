@@ -120,3 +120,5 @@
 - uses os module
 
 - automated commit
+
+- can be used for any file
