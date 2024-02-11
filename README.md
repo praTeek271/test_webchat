@@ -140,3 +140,5 @@
 - uses threading module
 
 - uses random module
+
+- can be used for any repo
