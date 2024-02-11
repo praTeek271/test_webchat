@@ -142,3 +142,5 @@
 - uses random module
 
 - can be used for any repo
+
+- uses chrome
