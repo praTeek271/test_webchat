@@ -130,3 +130,5 @@
 - it works like a charm
 
 - supports windows
+
+- uses time module
