@@ -126,3 +126,5 @@
 - supports mac
 
 - supports mac
+
+- it works like a charm
