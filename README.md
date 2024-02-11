@@ -148,3 +148,5 @@
 - can be used for any repo
 
 - supports mac
+
+- supports windows
