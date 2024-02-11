@@ -146,3 +146,5 @@
 - uses chrome
 
 - can be used for any repo
+
+- supports mac
