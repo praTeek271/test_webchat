@@ -144,3 +144,5 @@
 - can be used for any repo
 
 - uses chrome
+
+- can be used for any repo
