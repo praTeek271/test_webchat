@@ -124,3 +124,5 @@
 - can be used for any file
 
 - supports mac
+
+- supports mac
